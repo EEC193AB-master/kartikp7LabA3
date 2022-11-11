@@ -1,4 +1,4 @@
-# Project A3: Path Planning
+# Project A3: Path Planning - Dijkstra's
 
 Due Date: November 28, 2022
 
