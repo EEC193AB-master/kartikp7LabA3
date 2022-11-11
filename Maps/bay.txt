@@ -1,0 +1,22 @@
+EEC174AY Map
+13 19
+
+Mill Valley - San Francisco : 14.8
+San Francisco - Oakland : 12.1
+San Francisco - San Mateo : 21.7
+San Francisco - Daly City : 9.6
+Oakland - Berkeley : 5.6
+Oakland - Walnut Creek : 16.4
+Oakland - Hayward : 16.9
+San Mateo - Hayward : 17.7
+San Mateo - Mountain View : 21.3
+San Mateo - Half Moon Bay : 13.2
+San Mateo - Daly City : 14.8
+Daly City - Half Moon Bay : 19.6
+Walnut Creek - Pleasanton : 23.5
+Hayward - Pleasanton : 15.7
+Hayward - Fremont : 11.3
+Mountain View - Fremont : 22.2
+Mountain View - San Jose : 13.4
+Pleasanton - Fremont : 14.4
+Fremont - San Jose : 21.3

@@ -1,0 +1,16 @@
+EEC174AY Map
+8 13
+
+A - B : 1
+A - E : 1
+B - E : 6
+B - F : 4
+B - C : 2
+E - F : 6
+F - C : 1
+F - G : 4
+C - D : 2
+C - G : 5
+G - D : 2
+G - H : 1
+D - H : 3
